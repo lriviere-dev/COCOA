@@ -6,11 +6,11 @@ Repo de thèse pour le sujet "Compilation de connaissances pour l'ordonnancement
 
 ## TODOs & Perspectives:
 ### Etat de l'art RCPSP: 
--Solver OR-TOols
--Edge-finding
--Time-tabling
--Branch and cut and price
--Column generation
+- Solver OR-TOols
+- Edge-finding
+- Time-tabling
+- Branch and cut and price
+- Column generation
 
 ### Experimentations GOP CP:
 Le modèle actuel performe bizarrement mal sur certaines instances. Au point que ce pourrait être un bug.
@@ -32,8 +32,9 @@ Pistes pour amélioration modèle CP (de plus à moins concrète)
 4. If all else fails:
 - Fixer le nombre de groupe ou la taille max des groupes -> perte d'exactitude ou itérations.
 - Etudier la trace du solveur
-Autres pistes:
--Utilisation de données réelles ( Dassault?)
+
+Autres pistes
+- Utilisation de données réelles ( Dassault?)
 
 ### Carte de compilation:
 - Reprendre et clarifier l'avancement actuel.
