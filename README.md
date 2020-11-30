@@ -2,7 +2,7 @@
 Repo de thèse pour le sujet "Compilation de connaissances pour l'ordonnancement dynamique d'atelier d'assemblage"
 
 # External content:
-- Overleaf For WIP : https://www.overleaf.com/read/mbjfqsqhkfyq
+- Overleaf For WIP (brouillon) : https://www.overleaf.com/read/mbjfqsqhkfyq
 
 ## TODOs & Perspectives:
 ### Etat de l'art RCPSP: 
